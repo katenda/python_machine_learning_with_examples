@@ -1,4 +1,4 @@
-# Machine Learning Practice
+# Machine Learning Practice by Katenda Enock
 
 This repository is a collection of hands-on examples to learn and practice machine learning concepts. Each example is designed to be a practical, self-contained introduction to a specific algorithm or technique.
 
